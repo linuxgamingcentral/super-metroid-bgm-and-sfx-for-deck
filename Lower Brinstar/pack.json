@@ -1,0 +1,10 @@
+{
+  "name": "Lower Brinstar (Super Metroid)",
+  "description": "Lower Brinstar from Super Metroid. ©1994-2019 Intelligent Systems Co., Ltd., Nintendo Co., Ltd. & Nintendo R&D1. All Rights Reserved.",
+  "author": "Linux Gaming Central",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
