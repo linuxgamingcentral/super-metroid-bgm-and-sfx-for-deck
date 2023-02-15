@@ -5,7 +5,7 @@
 ## How to Install
 1. Make sure you have [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) and [Audio Loader](https://github.com/EMERALD0874/SDH-AudioLoader) installed on your Deck
 2. Click the Code button on this page and select "Download ZIP"
-3. Extract to `~/homebrew/sounds/`
+3. Extract to the "Lower Brinstar" and "Super Metroid SFX" folders to `~/homebrew/sounds/`
 
 Go to Game Mode and both packs should be available from the dropdown menus in Audio Loader.
 
